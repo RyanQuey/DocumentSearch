@@ -1,7 +1,7 @@
 # CURRENT STATUS
-Couldn't get it to work. Installed some stuff using nuget, but couldn't figure out how to get it to build, adn this thing doesn't have any docs!!
+Couldn't get it to work. Installed some stuff using nuget, but couldn't figure out how to get it to build, and this thing doesn't have much by way of docs...
 
-Giving up. But I do like the base idea, and can copy that
+I'm giving up - I don't have the skills to make this work in C#. But I do like the base idea, and though I can't figure out how he did this, will try a similar stack (Tika + ES) in my other project: https://github.com/RyanQuey/es-index-onedrive
 
 # Setup
 ## Get ES up and running
